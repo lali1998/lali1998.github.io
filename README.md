@@ -1,5 +1,7 @@
 # MetinWeb – A Web Interface for a Metin Game Server
 
+The project was created 3 years ago.
+
 MetinWeb is a front-end project designed for a **Metin game server**, built using **Angular**, **Material Design**, and **NgRx** for state management. The project includes multi-language support with **Transloco**, cryptographic utilities, and integration with MySQL-based authentication.
 
 ## 🚀 Technologies Used
