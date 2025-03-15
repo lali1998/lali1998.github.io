@@ -1,0 +1,133 @@
+{
+    "pages": {
+        "home": {
+            "images": {
+                "images-from-players": "A képet küldte: ",
+                "images-from-server-title": "Képek a szerverről!",
+                "images-from-server-detail": "Képeket küldhettek be a szerverről a következő címre : asd@gmail.com , a legjobb képek kikerülnek a főoldalra!",
+                "subtitle": "Nem tudja megjeleníteni a következő képet!"
+            },
+            "character": {
+                "choose-your-character": "válaszd ki a karakteredet!",
+                "character-title": "karakterosztályok",
+                "character-detail": "A játékosok öt karaktertípus közül választhatnak (harcos, nindzsa, sura, sámán illetve lycan/farkasember), melyek további 2-2 alkasztra oszlanak (a Lycan esetében csak 1), ami az általuk használható készségeket határozza meg. A karaktereknek 6 megtanulható készségük van, melyeket szintlépéskor kapott pontokkal lehet mesterszintre fejleszteni, majd könyvekkel nagymesteri, és úgynevezett „lélekkövekkel” tökéletes szintre. Sok más MMORPG-vel ellentétben a Metin2-ben csak emberi karakterek választhatók.",
+                "warrior": {
+                    "name": "Harcos",
+                    "detail": "A leggyakrabban választott karakterosztály, a magyar szervereken a játékosok majdnem 60%-a ezzel játszik. Általában ennél a karakternél a legjobb a védettség, támadóerő és életpontok aránya."
+                },
+                "ninja": {
+                    "name": "Nindzsa",
+                    "detail": "Jó taktikai érzéket és időzítést kívánó karakterek; a magyar szervereken ilyennel játszanak a legkevesebben. 1-1 kivétellel minden készségük aktívan támadó képesség, és 1-1 mérgezni is képes közülük."
+                },
+                "sura": {
+                    "name": "Sura",
+                    "detail": "A surák olyan harcosok, akik jobbára a készségeikre hagyatkoznak. Puszta közelharcban gyakran alulmaradnak a harcosokkal vagy tőrnindzsákkal szemben. Két altípusuk merőben eltér: szinte teljesen PvE, illetve PvP karakterek."
+                },
+                "shaman": {
+                    "name": "Sámán",
+                    "detail": "A sámán a többinél valamivel kifonomultabb karaktertípus. Mivel támadókészségei az átlagnál gyengébbek (gyógysámán), viszont másokra is adható áldásokkal rendelkezik, gyakran „buffernek” (támogató mágusnak) nevezik."
+                }
+            }
+        },
+        "payment": {
+            "status-text": "státusz:",
+            "status": "elérhető",
+            "select": "Kiváltasztás",
+            "title": "Támogatás"
+        },
+        "profile": {
+            "account-information": {
+                "username": "Felhasználónév",
+                "email": "E-mail",
+                "coin": "SÉ",
+                "job": "Kaszt",
+                "character-name": "Név",
+                "level": "Szint",
+                "playtime": "Játékidő",
+                "password": "Jelszó",
+                "character-delete-key": "Karakter törlő kód",
+                "answer-text": "Válasz helye"
+            },
+            "title": "Profil"
+        },
+        "authentication": {
+            "email": {
+                "new-email": "Új email cím",
+                "new-email-again": "Új email cím ismét",
+                "send-email-modify": "E-mail módosítása"
+            },
+            "error-message": {
+                "required": "Ez a mező kitöltése kötelező",
+                "email": {
+                    "different-emails": "A megadott email címek nem egyeznek meg!",
+                    "incorrect-email": "Helytelen email cím!"
+                },
+                "password": {
+                    "incorrect-password": "A megadott jelszavak nem egyeznek meg!",
+                    "min-character-count": "A jelszó minimum 8 karakter hosszú legyen!",
+                    "uppercase-lowercase": "Tartalmazzon egy kis és egy nagy betűt!",
+                    "min-character-number": "Tartalmazzon legalább egy számot!"
+                },
+                "login-error": {
+                    "incorrect-username-or-password": "Helytelen felhasználónév vagy jelszó"
+                },
+                "username": {
+                    "minlength": "Legalább 4 karakter hosszúságú legyen a Felhasználóneve!",
+                    "contain-number": "A felhasználónév legalább egy számot kell tartalmaznia!"
+                },
+                "character-delete": {
+                    "required": "A Karakter törlő kód minimum 7 karakter hosszú legyen!"
+                }
+            },
+            "password": {
+                "current-password": "Jelenlegi jelszó",
+                "new-password": "Új jelszó",
+                "new-password-again": "Új jelszó ismét"
+            },
+            "send-password-modify": "Jelszó módosítása",
+            "login": "Bejelentkezés",
+            "questions": {
+                "1": "Háziállatod neve?",
+                "2": "Legjobb barátod neve?",
+                "3": "Kedvenc tantárgyad?",
+                "4": "Kedvenc autómárkád?",
+                "5": "Kedvenc zenei előadód?"
+            },
+            "answer": {
+                "required": "A válasz minimum 4 karakter hosszú legyen!"
+            },
+            "register": "Regisztráció"
+        },
+        "support": {
+            "report": {
+                "1": {
+                    "item": "Első bejelentés"
+                },
+                "2": {
+                    "item": "Második bejelentés"
+                },
+                "3": {
+                    "item": "Harmadik bejelentés"
+                },
+                "select": "Hibajelentés kiválasztása",
+                "send": "Küldés",
+                "title": "Hibajelentlés"
+            },
+            "report-text": "hibajelentés kifejtése"
+        },
+        "download": {
+            "title": "Töltsd le most!",
+            "download-detail": "A legfrissebb kliens és patcher minden egyes firssítés után elérhetővé válik!",
+            "client": {
+                "name": "Kliens"
+            },
+            "patcher": {
+                "name": "Patcher"
+            }
+        },
+        "ranklist": {
+            "ranklist-title": "Játékos ranglista",
+            "ranklist-text": "Légy te a legjobb! A következő listában a TOP100 legjobb játékos található!"
+        }
+    }
+}
